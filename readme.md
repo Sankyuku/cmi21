@@ -10,13 +10,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : ¡OH NO! Estoy en un isekai serie B
 
-**Web:**   (url github.io)
+**Web:**   (sankyuku.github.com)
 
 **Autor:**  (Claudia Alcántara López)
 
-**Resumen** : Este proyecto 
+**Resumen** : Se trata de un juego inspirado en los RPG (Role-playing video game o Videojuego de rol) pero más sencillo que estos, donde tomaremos el control de un personaje que ha acabado en un mundo desconocido.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -24,19 +24,19 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:** Google Chrome
 
 **Tamaño proyecto:** 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA) 
 
 **Fecha** : 14/05/2020
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github: https://github.com/Sankyuku
+- Twitter: twitter.com/Sankyuku
+- Instagram: 
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
