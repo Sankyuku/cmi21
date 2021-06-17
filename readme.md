@@ -35,8 +35,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github: https://github.com/Sankyuku
-- Twitter: twitter.com/Sankyuku
-- Instagram: 
+- Twitter: https://twitter.com/Sankyuku
+- Instagram: https://www.instagram.com/sankyuku/
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -44,7 +44,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
+El jugador encarna a una persona que ha acabado misetriosamente en un mundo desconocido. Tras diambular durante horas, entra a un bosque, donde ve a lo lejos una persona. A partir de aquí la historia se vifurca. El jugador podrá hacercarse a esta persona desconocida o bien seguir un desvío en el camino.
 
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
