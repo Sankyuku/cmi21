@@ -21,9 +21,9 @@ https://github.com/sankyuku.github.io
 
 El logo (insertar imagen y breve justificación, si  tiene) 
 
-**Resolución:** 800x600px responsivo
+**Resolución:** 800x600px no reescalable
 
-**Probado en:** Google Chrome y firefox (PC)
+**Probado en:** Google Chrome y Firefox (PC)
 
 **Tamaño proyecto:** 15.7 MB
 
@@ -46,7 +46,11 @@ El jugador encarna a una persona que ha acabado misteriosamente en un mundo desc
 
 Si te acercas a la primera persona, te encontrarás con una bruja y una caballera y te verás en el apuro de pelear contra monstruos.
 
+![story1](https://github.com/Sankyuku/sankyuku.github.com/blob/master/Foto%20storyboard%201.jpg)
+
 En cambio, si tomas el desvío, encontrarás a una científica que pondrá a prueba tu inteligencia.
+
+![story2](https://github.com/Sankyuku/sankyuku.github.com/blob/master/Foto%20storyboard%202.jpg)
 
 ¿Qué camino tomarás?
 
