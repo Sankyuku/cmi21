@@ -2,7 +2,7 @@
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
-https://github.com/sankyuku.github.io
+https://sankyuku.github.io/
 
 # 1 Datos 
 
