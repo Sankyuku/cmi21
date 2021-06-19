@@ -2,7 +2,7 @@
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
-
+https://github.com/sankyuku.github.io
 
 # 1 Datos 
 
@@ -16,9 +16,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** :
+![logo](https://github.com/Sankyuku/sankyuku.github.com/blob/master/logo.jpg)
 
-(insertar imágenes a resolucion de 100px alto)
+El logo (insertar imagen y breve justificación, si  tiene) 
 
 **Resolución:** 800x600px responsivo
 
@@ -37,7 +38,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram: https://www.instagram.com/sankyuku/
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -106,7 +106,6 @@ Por último, el quizz consta de variables ''aciertos'' y ''fallos'' que van suma
 - Menús y elementos de navegación: En la intro hay un botón de skip para saltar esta introducción, que pierde sentido tras la primera vez.
 Una vez en el menú, aparecen los botones clave: créditos, iniciar viaje y galería. A estos se les suman los botones de control de volumen.
 Créditos lleva a la información del proyecto. Iniciar viaje hará que comience el juego. Y finalmente, en la galería podremos observar los bocetos y diseños completos de los personajes, así como el video mencionado anteriormente, que da ambiente al juego. En la galería contamos con botones de avance y retroceso, así como un botón para volver al inicio, tanto en la galería como en los créditos, por si se pulsase sin querer. El del volumen es otro elemento presente en todas las pantallas, exceptuando la introducción y la galería (en este caso, por el bien del diseño y la composición).
-- etc.
 
 
 
