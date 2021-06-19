@@ -127,12 +127,12 @@ En el futuro me gustaría seguir haciendo pequeños proyectos similares a este.
 **Recursos y materiales audiovisuales:**
 
 * Musica:
-- Dragon Quest IX OST - [Assemble, People](https://youtu.be/JwGzCsPj1-I)
-- Phoenix Wright: Trials and Tribulations OST - [Larry Butz Theme ~ When Something Smells, It's Usually Me](https://youtu.be/Ry87VcpXwjo)
-- Ace Attoney: Apollo Justice OST - [Klavier Theme ~ Guilty Love](https://youtu.be/pUwJfVn9Nq4)
-- Ace Attoney: Apollo Justice OST - [Trucy Theme ~ Child of Magic](https://youtu.be/5IrepeWqkIM)
-- Ace Attoney: Apollo Justice OST - [Lamiroir's Theme ~ "Landscape Painter in Sound"](https://youtu.be/SsDnF8W0MB0)
-- Another Code: Two Memories OST - [Sayoko's wish](https://youtu.be/mlaV4jt37k8)
+  - Dragon Quest IX OST - [Assemble, People](https://youtu.be/JwGzCsPj1-I)
+  - Phoenix Wright: Trials and Tribulations OST - [Larry Butz Theme ~ When Something Smells, It's Usually Me](https://youtu.be/Ry87VcpXwjo)
+  - Ace Attoney: Apollo Justice OST - [Klavier Theme ~ Guilty Love](https://youtu.be/pUwJfVn9Nq4)
+  - Ace Attoney: Apollo Justice OST - [Trucy Theme ~ Child of Magic](https://youtu.be/5IrepeWqkIM)
+  - Ace Attoney: Apollo Justice OST - [Lamiroir's Theme ~ "Landscape Painter in Sound"](https://youtu.be/SsDnF8W0MB0)
+  - Another Code: Two Memories OST - [Sayoko's wish](https://youtu.be/mlaV4jt37k8)
 * Imágenes:  Elaboradas y diseñadas por mí.
 * Tipografía: VCR OSD Mono https://www.dafont.com/es/vcr-osd-mono.font
 
