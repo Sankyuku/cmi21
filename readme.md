@@ -19,7 +19,7 @@ https://github.com/sankyuku.github.io
 **Logotipo** :
 ![logo](https://github.com/Sankyuku/sankyuku.github.com/blob/master/logo.jpg)
 
-El logo (insertar imagen y breve justificación, si  tiene) 
+Un logo de estilo pixel acorde a la línea del juego.
 
 **Resolución:** 800x600px no reescalable
 
