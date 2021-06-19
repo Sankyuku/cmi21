@@ -139,7 +139,7 @@ En el futuro me gustaría seguir haciendo pequeños proyectos similares a este.
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![licencia](https://github.com/Sankyuku/sankyuku.github.com/blob/master/Licencia.png)
 
 https://creativecommons.org/licenses/?lang=es
 
