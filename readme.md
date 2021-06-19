@@ -66,10 +66,10 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 ### Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
-- [Saga Dragon Quest](https://es.wikipedia.org/wiki/Dragon_Quest_(videojuego) referente de las características típocas de un RPG. 
+- [Saga Dragon Quest](https://es.wikipedia.org/wiki/Dragon_Quest_(videojuego)) referente de las características típocas de un RPG. 
 - [The Rising of The Shield Hero](https://es.wikipedia.org/wiki/The_Rising_of_the_Shield_Hero) como ejemplo de isekai donde no eres poderoso desde el primer momento y no todos son agradables. 
 - [Saga Ace Attorney](https://es.wikipedia.org/wiki/Ace_Attorney) para la optimización de los talksprites (los sprites que se muestran en las conversaciones) y gran parte de la música. 
-- [IB](https://en.wikipedia.org/wiki/Ib_(video_game), donde tus acciones y las direcciones que tomas te llevan a un final u otro.
+- [IB](https://en.wikipedia.org/wiki/Ib_(video_game)), donde tus acciones y las direcciones que tomas te llevan a un final u otro.
 
 
 **Motivación de la propuesta** 
