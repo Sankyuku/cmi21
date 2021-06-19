@@ -42,11 +42,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-El jugador encarna a una persona que ha acabado misetriosamente en un mundo desconocido. Tras diambular durante horas, entra a un bosque, donde ve a lo lejos una persona. A partir de aquí la historia se bifurca. El jugador podrá hacercarse a esta persona desconocida o bien seguir un desvío en el camino.
+El jugador encarna a una persona que ha acabado misteriosamente en un mundo desconocido. Tras deambular durante horas, entra a un bosque, donde ve a lo lejos una persona. A partir de aquí la historia se bifurca. El jugador podrá acercarse a esta persona desconocida o bien seguir un desvío en el camino.
 
 Si te acercas a la primera persona, te encontrarás con una bruja y una caballera y te verás en el apuro de pelear contra monstruos.
 
-En cambio,si tomas el desvío, encontrarás a una científica que pondrá a prueba tu inteligencia.
+En cambio, si tomas el desvío, encontrarás a una científica que pondrá a prueba tu inteligencia.
 
 ¿Qué camino tomarás?
 
@@ -80,7 +80,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Todos sabemos que en ocasiones los guiones se van por las ramas, especialmente en el género ''isekai'' ¿Qué tal si nos reimos un poco de ello? Todo lo que pasa tiene su explicación y no sólo por haber acabado en otro mundo significa que vayas a ser el próximo dios. La motivación principal detrás de esta propuesta es crear un juego corto pero divertido, en el que también poder presentar superficialmente algunos de mis personajes originales a modo de spin-off.
+Todos sabemos que en ocasiones los guiones se van por las ramas, especialmente en el género ''isekai'' ¿Qué tal si nos reímos un poco de ello? Todo lo que pasa tiene su explicación y no sólo por haber acabado en otro mundo significa que vayas a ser el próximo dios. La motivación principal detrás de esta propuesta es crear un juego corto pero divertido, en el que también poder presentar superficialmente algunos de mis personajes originales a modo de spin-off.
 
 
 **Publico / audiencia**
