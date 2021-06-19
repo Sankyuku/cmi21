@@ -2,13 +2,12 @@
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
-https://sankyuku.github.io/
 
 # 1 Datos 
 
 **Titulo** : ¡OH NO! Estoy en un isekai serie B
 
-**Web:**   (sankyuku.github.com)
+**Web:**   (https://sankyuku.github.io/)
 
 **Autor:**  (Claudia Alcántara López)
 
