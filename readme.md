@@ -7,7 +7,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : ¡OH NO! Estoy en un isekai serie B
 
-**Web:**   (https://sankyuku.github.io/)
+**Web:**   [sankyuku.github.io](https://sankyuku.github.io/)
 
 **Autor:**  (Claudia Alcántara López)
 
@@ -33,8 +33,8 @@ Un logo de estilo pixel acorde a la línea del juego.
 **Medios** :
 
 - Github: https://github.com/Sankyuku
-- Twitter: https://twitter.com/Sankyuku
-- Instagram: https://www.instagram.com/sankyuku/
+- Twitter: [@Sankyuku](https://twitter.com/Sankyuku)
+- Instagram: [@Sankyuku](https://www.instagram.com/sankyuku/)
 
 
 
