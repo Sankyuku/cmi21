@@ -57,21 +57,12 @@ En cambio, si tomas el desvío, encontrarás a una científica que pondrá a pru
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+![esquema](https://github.com/Sankyuku/sankyuku.github.com/blob/master/Diagrama.jpg)
 
 
 # 3. Metodología
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
 
 ### Etapa 1: Ideación de proyecto
 
